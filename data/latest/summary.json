@@ -3,11 +3,11 @@
  "total_rows": 26883,
  "chains": {
   "bricodepot_fr": {
-   "products": 26863,
+   "products": 26866,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 12449.5
+   "seconds": 12403.9
   }
  }
 }
