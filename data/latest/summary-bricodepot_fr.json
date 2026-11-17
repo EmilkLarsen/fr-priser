@@ -1,12 +1,12 @@
 {
- "date": "2026-11-16",
+ "date": "2026-11-17",
  "chains": {
   "bricodepot_fr": {
-   "products": 27937,
+   "products": 27873,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 6,
-   "seconds": 13373.2
+   "seconds": 13117.8
   }
  }
 }
